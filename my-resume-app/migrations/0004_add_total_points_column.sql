@@ -1,0 +1,1 @@
+ALTER TABLE users ADD COLUMN total_points INT DEFAULT 0; 
